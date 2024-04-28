@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Porject</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="discription">C++ is a powerful programming language widely used for developing system software, application software, device drivers..</string>
+
+    <string-array name="form_full_text">
+        <item>Java</item>
+        <item>Python</item>
+        <item>Web Design</item>
+    </string-array>
+    <string-array name="form_full_discreption">
+        <item>C++ is a powerful programming language widely used for developing system software, application software, device drivers..</item>
+        <item>C++ is a powerful programming language widely used for developing system software, application software, device drivers..</item>
+        <item>C++ is a powerful programming language widely used for developing system software, application software, device drivers..</item>
+    </string-array>
+    <string-array name="form_full_links">
+        <item>see more</item>
+        <item>see more</item>
+        <item>see more</item>
+    </string-array>
+
+</resources>
